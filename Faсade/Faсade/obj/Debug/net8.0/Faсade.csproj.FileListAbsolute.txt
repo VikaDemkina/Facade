@@ -1,0 +1,14 @@
+C:\Users\9201ws01\source\repos\Faсade\Faсade\bin\Debug\net8.0\Faсade.exe
+C:\Users\9201ws01\source\repos\Faсade\Faсade\bin\Debug\net8.0\Faсade.deps.json
+C:\Users\9201ws01\source\repos\Faсade\Faсade\bin\Debug\net8.0\Faсade.runtimeconfig.json
+C:\Users\9201ws01\source\repos\Faсade\Faсade\bin\Debug\net8.0\Faсade.dll
+C:\Users\9201ws01\source\repos\Faсade\Faсade\bin\Debug\net8.0\Faсade.pdb
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.AssemblyInfoInputs.cache
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.AssemblyInfo.cs
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.csproj.CoreCompileInputs.cache
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.dll
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\refint\Faсade.dll
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.pdb
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\Faсade.genruntimeconfig.cache
+C:\Users\9201ws01\source\repos\Faсade\Faсade\obj\Debug\net8.0\ref\Faсade.dll
